@@ -1,0 +1,16 @@
+{
+  "shoppinglist": [
+    {
+      "id": 1,
+      "name": "Ananas"
+    },
+    {
+      "id": 2,
+      "name": "Jajka"
+    },
+    {
+      "id": 3,
+      "name": "Banany"
+    }
+  ]
+}
